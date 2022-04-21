@@ -1,0 +1,4 @@
+Employee{
+  int eid;
+  Strinf ename;
+}
